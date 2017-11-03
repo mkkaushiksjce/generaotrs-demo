@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-view-wrap{
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 300px;
+}
+
+#headerWrap{
+    font-size: 24px;
+}
+
+#addressHeader{
+   font-size: 28px; 
+}
+
+#address{
+    font-size: 28px;
+    color: seagreen;
+    max-width: 768px;
+    margin: 0 auto;
+}
